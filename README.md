@@ -16,3 +16,17 @@ NY市場のコードを第一引数，予測したい日数を第二引数にす
 上記のスクリプトはマイクロソフト社の株価の5日間予測です．<br>
 予測日数が長期になるほど予測は不正確です．<br>
 予測の結果に関しては一切の責任を追いません．<br>
+## Visualize Raw Data
+![Raw Data](https://github.com/TANEO-bio/SARIMA_model/blob/master/pkP32dMkJJTk.png)
+<br>
+## Find Autoregression
+![Auto Regression](https://github.com/TANEO-bio/SARIMA_model/blob/master/PtA0SoCghiCq.png)
+<br>
+## Seasonal Decompose
+![Seasonal Decompose](https://github.com/TANEO-bio/SARIMA_model/blob/master/J0LYZML1R0vf.png)
+<br>
+## Model Selection
+![Model Selection](https://github.com/TANEO-bio/SARIMA_model/blob/master/ZpUMcH4NeANU.png)
+<br>
+## Forecasting
+![Forecast](https://github.com/TANEO-bio/SARIMA_model/blob/master/ELMmFOZ13Z7F.png)
