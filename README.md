@@ -1,4 +1,4 @@
-# SARIMA_model
+# SARIMA model
 This is the script what optimizing SARIMA model's parameters and predicting time series data.<br>
 Seasonal wave assume as weekly change of stock price.<br>
 New York Stock Exchange's cord is first argument and predicting duration is second.<br>
