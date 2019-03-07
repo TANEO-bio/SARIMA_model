@@ -30,3 +30,9 @@ NY市場のコードを第一引数，予測したい日数を第二引数にす
 <br>
 ## Forecasting
 ![Forecast](https://github.com/TANEO-bio/SARIMA_model/blob/master/ELMmFOZ13Z7F.png)
+
+## Citation
+「Pythonによる時系列分析の基礎」 https://logics-of-blue.com/python-time-series-analysis/
+「SARIMAで時系列データの分析（PV数の予測）」 https://www.kumilog.net/entry/sarima-pv
+「時系列解析ライブラリーの比較 statsmodel,fbprophet,tensorflow　その１」 https://qiita.com/ryouta0506/items/161e07c2cd041191d3cc
+「季節調整済みARIMAモデルで電力使用状況を推定してみる」 http://jbclub.xii.jp/?p=695
