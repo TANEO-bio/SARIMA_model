@@ -5,7 +5,7 @@ New York Stock Exchange's cord is first argument and predicting duration is seco
 Results contains Raw Data, Seasonal Decompose, Modeling results and Forecast of data.<br>
 Excecute like script below.
 This is Microsoft's 5days forecasting of stock price.<br>
-Developer assumes no responsibility to this results.<br>
+Developer assumes no responsibility to results.<br>
 ```
 python tsa_predict.py MSFT 5
 ```
